@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountDownApplication</string>
+    <string name="value_in_second">Value in second</string>
+    <string name="show_count_down">Show Count Down</string>
+    <string name="time_format">%1$d days %2$d hs %3$d min %4$d sec</string>
+    <string name="done">done</string>
+</resources>
